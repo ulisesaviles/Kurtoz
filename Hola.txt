@@ -1,5 +1,13 @@
-Dudas:
-  La app debe de estar orientada solamente a un restaurant o a la escala?
-  La app tendrá el logo del Kurtoz?
-  No tiene sentido poner search engine si solo es un restaurant. En ese caso tiene más sentido desplegar el menú.
-  
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
